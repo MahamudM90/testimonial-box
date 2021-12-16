@@ -1,2 +1,2 @@
 # Testimonial-Box
-This is a small Testimonial-website.
+This is a small Site of Testimonial-Box.
